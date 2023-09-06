@@ -29,8 +29,7 @@ The F-Boat project received crucial financial support from institutions and enti
 - nVidia, a world leader in Artificial Intelligence solutions and high-performance embedded computing systems.
 
 
-<img src="https://i.imgur.com/tgl3A0u.png" width="200" vspace="22" hspace="5">                                              
-<img src="https://i.imgur.com/FIVXWHz.jpg" width="106" hspace="">
+<img src="https://i.imgur.com/tgl3A0u.png" width="200" vspace="22" hspace="2">                                              <img src="https://i.imgur.com/FIVXWHz.jpg" width="106" hspace="">
 <img src="https://i.imgur.com/BrKqXnu.png" width="100" hspace="">
 <img src="https://i.imgur.com/IIXspiT.png" width="200" vspace="10" hspace="">
 
