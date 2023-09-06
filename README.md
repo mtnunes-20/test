@@ -28,6 +28,13 @@ The F-Boat project received crucial financial support from institutions and enti
 - Marinha do Brasil (brazilian navy)
 - nVidia, a world leader in Artificial Intelligence solutions and high-performance embedded computing systems.
 
+
+<img src="https://i.imgur.com/tgl3A0u.png" width="200" vspace="22" hspace="25">                                                
+<img src="https://i.imgur.com/FIVXWHz.jpg" width="106" hspace="20">
+<img src="https://i.imgur.com/BrKqXnu.png" width="100" hspace="20">
+<img src="https://i.imgur.com/IIXspiT.png" width="200" vspace="10" hspace="20">
+
+
 ## :construction: Development and Construction
 
 The construction of the F-Boat was a complex task that required specialized skills and experience in naval engineering. The construction process began in Natal, RN, and is ongoing in the city of Niterói, RJ. Some of the notable features of this autonomous sailboat include:
