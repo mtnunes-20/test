@@ -25,30 +25,31 @@ The F-Boat project benefited from the expertise of a diverse group of:
 The F-Boat project received crucial financial support from institutions and entities committed to scientific and technological research, including:
 - Carlos Chagas Filho Foundation for Research Support of the State of Rio de Janeiro (FAPERJ)
 - Niterói City Hall
-- Brazilian Navy
+- Marinha do Brasil (brazilian navy)
 - nVidia, a world leader in Artificial Intelligence solutions and high-performance embedded computing systems.
 
 ## :construction: Development and Construction
 
 The construction of the F-Boat was a complex task that required specialized skills and experience in naval engineering. The construction process began in Natal, RN, and is ongoing in the city of Niterói, RJ. Some of the notable features of this autonomous sailboat include:
-- Advanced Monitoring: The F-Boat is equipped with state-of-the-art technology for monitoring water conditions, allowing the collection of valuable data for environmental studies.
-
-Link: <https://github.com/medialab-fboat/water-sensors-code>
+- [Advanced Monitoring](https://github.com/medialab-fboat/water-sensors-code): The F-Boat is equipped with state-of-the-art technology for monitoring water conditions, allowing the collection of valuable data for environmental studies.
 
 - Artificial Intelligence (AI): The partnership with nVidia enabled the incorporation of AI systems to enhance the autonomy and performance of the F-Boat.
-- Automation: The F-Boat project is a tangible demonstration of UFF's commitment to investing in technologies with integrated systems that interact with each other.
-- Computer Vision: In partnership with artificial intelligence, computer vision will enable the F-Boat to interpret images and videos, empowering it to perform tasks such as object recognition and visual pattern detection.
+
+- [Automation](https://github.com/medialab-fboat/actuators-code-just-arduino-mega-version): The F-Boat project is a tangible demonstration of UFF's commitment to investing in technologies with integrated systems that interact with each other.
+
+
+- [Computer Vision](https://github.com/medialab-fboat/Yara_OVE): In partnership with artificial intelligence, computer vision will enable the F-Boat to interpret images and videos, empowering it to perform tasks such as object recognition and visual pattern detection.
 
 
 
 ## :file_folder: Documentation
 
-- **Scientific Papers:** Our research is documented in various scientific papers. Check out our [collection of papers](https://github.com/medialab-fboat/documentation/tree/main/written-articles) for more details on our work.
+:heavy_check_mark: **Scientific Papers:** Our research is documented in various scientific papers. Check out our [collection of papers](https://github.com/medialab-fboat/documentation/tree/main/written-articles) for more details on our work.
 
-- **Physical Structure:** To understand the physical structure of our system, refer to the [structure documentation](https://github.com/medialab-fboat/documentation/tree/main/drawing) for detailed information.
+:heavy_check_mark: **Physical Structure:** To understand the physical structure of our system, refer to the [structure documentation](https://github.com/medialab-fboat/documentation/tree/main/drawing) for detailed information.
 
-- **Academic Work:** For in-depth information on our research, please refer to our [collection of academic papers](https://github.com/medialab-fboat/documentation/tree/main/academic-work) for detailed insights into our work.
+:heavy_check_mark: **Academic Work:** For in-depth information on our research, please refer to our [collection of academic papers](https://github.com/medialab-fboat/documentation/tree/main/academic-work) for detailed insights into our work.
 
-- **Water Testing:** For details on our water testing procedures and results, consult our [water testing documentation](https://github.com/medialab-fboat/documentation/tree/main/water-tests) for comprehensive information.
+:heavy_check_mark: **Water Testing:** For details on our water testing procedures and results, consult our [water testing documentation](https://github.com/medialab-fboat/documentation/tree/main/water-tests) for comprehensive information.
 
-- **Desing of Electronic Boards:** To gain insights into the electronic components of our system, please refer to the [electronic board documentation](https://github.com/medialab-fboat/documentation/tree/main/boards/v1-vnh5019-and-sm480-pwm-3000W-h-bridge) for detailed information.
+:heavy_check_mark: **Desing of Electronic Boards:** To gain insights into the electronic components of our system, please refer to the [electronic board documentation](https://github.com/medialab-fboat/documentation/tree/main/boards/v1-vnh5019-and-sm480-pwm-3000W-h-bridge) for detailed information.
