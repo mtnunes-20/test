@@ -1,6 +1,6 @@
 # Project F-Boat: Autonomous Monitoring of Guanabara Bay Waters
 
-<img src="https://imgur.com/dc4VdNp">
+<img src="https://i.imgur.com/dc4VdNp.jpg">
 
 ## :ocean: Introduction
 
