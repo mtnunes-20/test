@@ -32,7 +32,7 @@ The F-Boat project received crucial financial support from institutions and enti
 
 The construction of the F-Boat was a complex task that required specialized skills and experience in naval engineering. The construction process began in Natal, RN, and is ongoing in the city of Niterói, RJ. Some of the notable features of this autonomous sailboat include:
 - Advanced Monitoring: The F-Boat is equipped with state-of-the-art technology for monitoring water conditions, allowing the collection of valuable data for environmental studies.
-  
+
 Link: <https://github.com/medialab-fboat/water-sensors-code>
 
 - Artificial Intelligence (AI): The partnership with nVidia enabled the incorporation of AI systems to enhance the autonomy and performance of the F-Boat.
@@ -43,8 +43,12 @@ Link: <https://github.com/medialab-fboat/water-sensors-code>
 
 ## :file_folder: Documentation
 
-- **Scientific Papers:** Our research is documented in various scientific papers. Check out our [collection of papers](link-to-papers) for more details on our work.
+- **Scientific Papers:** Our research is documented in various scientific papers. Check out our [collection of papers](https://github.com/medialab-fboat/documentation/tree/main/written-articles) for more details on our work.
 
-- **Physical Structure:** To understand the physical structure of our system, refer to the [structure documentation](link-to-structure-documentation) for detailed information.
+- **Physical Structure:** To understand the physical structure of our system, refer to the [structure documentation](https://github.com/medialab-fboat/documentation/tree/main/drawing) for detailed information.
 
-- **Mentions and Recognition:** See the [mentions and recognition](link-to-mentions-and-recognition) we have received from other institutions and researchers in the field of autonomous navigation.
+- **Academic Work:** For in-depth information on our research, please refer to our [collection of academic papers](https://github.com/medialab-fboat/documentation/tree/main/academic-work) for detailed insights into our work.
+
+- **Water Testing:** For details on our water testing procedures and results, consult our [water testing documentation](https://github.com/medialab-fboat/documentation/tree/main/water-tests) for comprehensive information.
+
+- **Desing of Electronic Boards:** To gain insights into the electronic components of our system, please refer to the [electronic board documentation](https://github.com/medialab-fboat/documentation/tree/main/boards/v1-vnh5019-and-sm480-pwm-3000W-h-bridge) for detailed information.
