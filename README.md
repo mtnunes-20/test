@@ -32,6 +32,7 @@ The F-Boat project received crucial financial support from institutions and enti
 
 The construction of the F-Boat was a complex task that required specialized skills and experience in naval engineering. The construction process began in Natal, RN, and is ongoing in the city of Niterói, RJ. Some of the notable features of this autonomous sailboat include:
 - Advanced Monitoring: The F-Boat is equipped with state-of-the-art technology for monitoring water conditions, allowing the collection of valuable data for environmental studies.
+  
 Link: <https://github.com/medialab-fboat/water-sensors-code>
 
 - Artificial Intelligence (AI): The partnership with nVidia enabled the incorporation of AI systems to enhance the autonomy and performance of the F-Boat.
