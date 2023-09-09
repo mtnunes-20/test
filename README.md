@@ -33,13 +33,13 @@ The F-Boat project received crucial financial support from institutions and enti
 - Marinha do Brasil (brazilian navy)
 - nVidia, a world leader in Artificial Intelligence solutions and high-performance embedded computing systems.
 
-<a href="seu-link-aqui">
-    <img src="https://i.imgur.com/tgl3A0u.png" alt="Descrição da Imagem" style="width:20%; margin-left: 100px">
-  </a><a href="seu-link-aqui">
-    <img src="https://i.imgur.com/FIVXWHz.jpg" alt="Descrição da Imagem" style="width:20%; height: 20%;">
-  </a><a href="seu-link-aqui">
+<a>
+    <img src="https://i.imgur.com/tgl3A0u.png" alt="Descrição da Imagem" style="width:20%;">
+  </a><a>
+    <img src="https://i.imgur.com/FIVXWHz.jpg" alt="Descrição da Imagem" style="width:20%; height: 1px;">
+  </a><a>
     <img src="https://i.imgur.com/BrKqXnu.png" alt="Descrição da Imagem" style="width:20%; height: 20%;">
-  </a><a href="seu-link-aqui">
+  </a><a>
     <img src="https://i.imgur.com/IIXspiT.png" alt="Descrição da Imagem" style="width:20%;">
   </a>
 
