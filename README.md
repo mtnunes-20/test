@@ -68,9 +68,9 @@ Here is the link to the F-Boat assembly playlist: <https://youtu.be/whMxffAnQvg?
 
 ## :camera:Photos
 
-<img src="https://i.imgur.com/7XoGIfE.jpg" weight="50%"> 
-<img src="https://i.imgur.com/7KZdI9v.jpg" weight="50%"> 
-<img src="https://i.imgur.com/SNp62Jp.jpg" weight="50%"> 
-<img src="https://i.imgur.com/x0W7lRQ.jpg" weight="50%"> 
-<img src="https://i.imgur.com/tEPDwOG.jpg" weight="50%"> 
-<img src="https://i.imgur.com/Y5zuhPt.jpg" weight="50%"> 
+<img src="https://i.imgur.com/7XoGIfE.jpg" width=50%> 
+<img src="https://i.imgur.com/7KZdI9v.jpg" width=50%> 
+<img src="https://i.imgur.com/SNp62Jp.jpg" width=50%> 
+<img src="https://i.imgur.com/x0W7lRQ.jpg" width=50%> 
+<img src="https://i.imgur.com/tEPDwOG.jpg" width=50%> 
+<img src="https://i.imgur.com/Y5zuhPt.jpg" width=50%> 
