@@ -36,7 +36,7 @@ The F-Boat project received crucial financial support from institutions and enti
 <a href="seu-link-aqui">
     <img src="https://i.imgur.com/tgl3A0u.png" alt="Descrição da Imagem" style="width:20%;">
   </a><a href="seu-link-aqui">
-    <img src="https://i.imgur.com/FIVXWHz.jpg" alt="Descrição da Imagem" style="width:20%;">
+    <img src="https://i.imgur.com/FIVXWHz.jpg" alt="Descrição da Imagem" style="width:20%; height:50%">
   </a><a href="seu-link-aqui">
     <img src="https://i.imgur.com/BrKqXnu.png" alt="Descrição da Imagem" style="width:20%;">
   </a><a href="seu-link-aqui">
